@@ -10,7 +10,7 @@ page_sections:
     link_text: hello2
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Ola
   content: DUDU
   media:
