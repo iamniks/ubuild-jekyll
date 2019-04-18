@@ -13,6 +13,8 @@ page_sections:
   media_alignment: Right
   headline: Ola
   content: DUDU
+  media:
+    image: "/uploads/2018/06/21/drone-photo.jpeg"
 - template: simple-footer
   block: footer-1
 
