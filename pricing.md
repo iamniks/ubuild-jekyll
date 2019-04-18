@@ -15,6 +15,10 @@ page_sections:
   content: DUDU
   media:
     image: "/uploads/2018/06/21/drone-photo.jpeg"
+- template: 1-column-text
+  block: one-column-1
+  headline: Headline goes here
+  content: "<strong>Hello bitches</strong>"
 - template: simple-footer
   block: footer-1
 
