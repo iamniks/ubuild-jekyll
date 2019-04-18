@@ -8,6 +8,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Ola
+  content: DUDU
 - template: simple-footer
   block: footer-1
 
